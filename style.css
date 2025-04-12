@@ -7,7 +7,6 @@ html {
       display: flex;
       font-family: Futura Lt BT;
       font-size: 15px;
-      height: 100%;
       justify-content: center;
       margin: 0;
     }
@@ -62,7 +61,7 @@ html {
       height: auto;
       object-fit: cover;
       object-position: 50% 100%;
-      width: 10em;
+      width: 13em;
     }
 
 input {
