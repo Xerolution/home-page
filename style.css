@@ -8,6 +8,7 @@ html {
       font-family: Futura Lt BT;
       font-size: 15px;
       justify-content: center;
+      height: 100%;
       margin: 0;
     }
 
@@ -66,7 +67,7 @@ html {
 
 input {
   background-color: unset;
-  font: 16px 'Ubuntu Mono', monospace;
+  font: 12px Futura Lt BT;
   color: #ebdbb2;
   height: 100%;
   width: 100%;
