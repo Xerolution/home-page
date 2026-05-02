@@ -42,7 +42,7 @@ html {
       grid-auto-rows: 1fr;
       margin: 0 1em;
       min-width: 24em;
-      padding: 1em 0;
+      padding: 1em 2em;
     }
 
     ul {
