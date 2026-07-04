@@ -40,9 +40,9 @@ html {
       display: grid;
       grid-template-columns: repeat(4, 1fr);
       grid-template-rows: repeat(2, 1fr);
-      margin: 0 1em;
+      margin: 5em 1em;
       min-width: 15em;
-      padding: 10em 0;
+      padding: 1em 0;
     }
 
     ul {
