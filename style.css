@@ -42,7 +42,7 @@ html {
       grid-template-rows: repeat(2, 1fr);
       margin: 0 1em;
       min-width: 20em;
-      min-height: 100em;
+      min-height: 500em;
       padding: 0;
     }
 
