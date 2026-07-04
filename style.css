@@ -39,9 +39,9 @@ html {
     nav {
       display: grid;
       grid-template-columns: repeat(4, 1fr);
-      grid-template-rows: repeat(2, 2fr);
+      grid-template-rows: repeat(2, 1fr);
       margin: 0 1em;
-      min-width: 15em;
+      min-width: 20em;
       padding: 1em 0;
     }
 
